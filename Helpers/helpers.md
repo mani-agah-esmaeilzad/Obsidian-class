@@ -4,3 +4,4 @@ install android studio from [Here](https://dl2.soft98.ir/mobile/Android.Studio.2
 intstall android studio SDK from [Here](https://dl2.soft98.ir/mobile/Android.SDK.Tools.26.1.1.rar?1709514655)
 get free api from [Here](https://rapidapi.com/collection/list-of-free-apis)
 get materials from [Here](https://m3.material.io/)
+download git from [Here](https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/Git-2.44.0-64-bit.exe)
