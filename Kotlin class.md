@@ -1,0 +1,46 @@
+- [ ] what is the Kotlin
+- [ ] install IntelliJ & Java Development Kit
+- [ ] Building a Kotlin project and checking the basic concepts
+	- [ ] The first stages of programming
+		- [ ] Introduction variable
+		- [ ] check operator and convert data type
+		- [ ] Review of logical and conditional operators
+		- [ ] Reviewing loops
+		- [ ] Reviewing function
+		- [ ] what is the object oriented (OOP)
+			- [ ] Reviewing class 
+			- [ ] Inheritance in Kotlin
+			- [ ] Check Extension Methods, Nested Classes, Companion Objects 
+			- [ ] check Interface , Abstract , Generic , enum
+	- [ ] check collection in kotlin
+	- [ ] read and write data on File
+- [ ] Installation and setup of android studio
+- [ ] Review of Android Studio and the structure of Android projects
+	- [ ] check Toast, Context, CheckBox
+	- [ ] Working with images in Android Studio
+	- [ ] check layouts in kotlin
+	- [ ] Examining the basic concepts of style writing in Android
+	- [ ] calculator project
+		- [ ] create layouts and styles 
+		- [ ] create theme for buttons
+		- [ ] make logic for buttons value
+		- [ ] add value for their 
+		- [ ] make responsive layouts 
+	- [ ] what is the activity and check them
+	- [ ] check intent in kotlin
+	- [ ] check how to navigate them
+		- [ ] project for activity
+			- [ ] create 3 layout and navigate between them
+	- [ ] check list views
+		- [ ] project for RecyclerView 
+			- [ ] pages of electronic stores in 6 part
+	- [ ] what is the lamda
+	- [ ] check SharedPerfrences 
+	- [ ] what is the database
+	- [ ] project todo list with sqlLite 
+	- [ ] Examining the basics of connection with the server and the available libraries for this work
+	- [ ] Checking the Volley library and sending and receiving information
+	- [ ] Communication with Api and receiving information as JsonArray
+	- [ ] Communication with Api and receiving information in Json form
+	- [ ] Create Whatsapp application
+	
