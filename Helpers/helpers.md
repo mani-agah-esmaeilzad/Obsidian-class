@@ -4,7 +4,4 @@
 4. intstall android studio SDK from [Here](https://dl2.soft98.ir/mobile/Android.SDK.Tools.26.1.1.rar?1709514655)
 5. get free api from [Here](https://rapidapi.com/collection/list-of-free-apis)
 6. get materials from [Here](https://m3.material.io/)
-<<<<<<< HEAD
 7. install postman from [Here](https://dl.pstmn.io/download/latest/win64)
-=======
->>>>>>> f8094e6f2439521d14e3debbb5a8417e89a54edb
