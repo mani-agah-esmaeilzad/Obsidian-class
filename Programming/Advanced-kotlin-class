@@ -1,1 +1,10 @@
-
+- [ ] what is the Architecture
+	- [ ] work with viewBinding
+	- [ ] work with dataBinding
+	- [ ] work with viewModel
+	- [ ] work with liveData
+	- [ ] work with navigation component 
+- [ ] what is the database
+	- [ ] [sql query class](sql-query-class.md)
+	- [ ] work with roomDatabase
+	- [ ] work with work manager
