@@ -1,2 +1,4 @@
 ## CSharp road
-- [ ] what is the c#
+- [ ] What is the C#
+- [ ] Review of C# rules
+- [ ] Variables in C#
