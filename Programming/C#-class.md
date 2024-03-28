@@ -2,3 +2,4 @@
 - [ ] What is the C#
 - [ ] Review of C# rules
 - [ ] Variables in C#
+- [ ] Manage errors
