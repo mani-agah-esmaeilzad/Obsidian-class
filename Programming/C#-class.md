@@ -13,3 +13,4 @@
 - [ ] NameSpaces in C#
 - [ ] Introducing and getting started with Windows Form Application
 - [ ] Partial classes in C#
+- [ ] Sql Server database("https://github.com/mani-agah-esmaeilzad/Obsidian-class/blob/main/Programming/sql-query-class.md")
