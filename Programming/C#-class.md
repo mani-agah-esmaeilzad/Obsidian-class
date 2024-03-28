@@ -5,4 +5,5 @@
 - [ ] Manage errors
 - [ ] Condition commands
 - [ ] Explanation of presentations and loops
-- [ ] methods in C#
+- [ ] Methods in C#
+- [ ] Classes in C#
