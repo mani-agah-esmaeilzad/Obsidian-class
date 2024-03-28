@@ -8,3 +8,4 @@
 - [ ] Methods in C#
 - [ ] Classes in C#
 - [ ] Static keyword and inheritance in C#
+- [ ] Encapsulation and Generic Lists in C#
