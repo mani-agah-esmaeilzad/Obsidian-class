@@ -12,3 +12,4 @@
 - [ ] Interfaces in C#
 - [ ] NameSpaces in C#
 - [ ] Introducing and getting started with Windows Form Application
+- [ ] Partial classes in C#
