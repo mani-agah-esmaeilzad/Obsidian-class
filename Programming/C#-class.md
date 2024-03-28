@@ -9,3 +9,4 @@
 - [ ] Classes in C#
 - [ ] Static keyword and inheritance in C#
 - [ ] Encapsulation and Generic Lists in C#
+- [ ] Interfaces in C#
