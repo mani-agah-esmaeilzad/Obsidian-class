@@ -4,3 +4,4 @@
 - [ ] Variables in C#
 - [ ] Manage errors
 - [ ] Condition commands
+- [ ] Explanation of presentations and loops
